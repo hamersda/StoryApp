@@ -8,4 +8,7 @@
     <string name="title_signup_page">Daftarkan Dirimu Segera</string>
     <string name="name">Nama</string>
     <string name="signup">Daftar</string>
+    <string name="to_register">Belum Pernah Bercerita?</string>
+    <string name="register">Register</string>
+    <string name="to_login">Sudah Pernah Bercerita?</string>
 </resources>
